@@ -40,7 +40,7 @@
   "dependencies": {
     "gunzip-maybe": "^1.4.2",
     "https-proxy-agent": "^7.0.2",
-    "tar-fs": "^3.0.4"
+    "tar-fs": "^3.0.6"
   },
   "binary": {
     "module_path": "./bin/",
